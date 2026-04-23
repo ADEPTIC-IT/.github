@@ -1,5 +1,20 @@
 ## Welcome to the team 🙌
 
+# Adeptic Reply | Projects
+
+This repository contains all information thematically related to **Adeptic Reply**. Project guidelines, technical proposals (RFCs), and governance documentation are all part of this repository.
+
+## 🚀 Who We Are
+**Adeptic Reply** is a company within the **Reply S.p.A.** group focused on the research, development, and implementation of advanced solutions in the field of next-generation Cloud and Edge infrastructures.
+
+Founded in **January 2025**, our primary objective is to represent technological excellence within the **IPCEI CIS** (Important Project of Common European Interest - Cloud Infrastructure and Services) project, a strategic European initiative aimed at building a sovereign and resilient data infrastructure.
+
+## 🇪🇺 IPCEI CIS Mission
+Our contribution focuses on creating a software framework capable of enabling the federation of cloud and edge services. We work to:
+- Ensure interoperability between different European providers.
+- Develop open-source technologies that support digital sovereignty.
+- Optimize workload distribution from the data center to the edge device.
+
 <!--
 
 **Here are some ideas to get you started:**
