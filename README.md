@@ -1,2 +1,2 @@
-# .github-private
+# .github
 ADEPTIC-IT overview
