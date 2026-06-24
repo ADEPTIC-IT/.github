@@ -41,4 +41,8 @@ Our contribution focuses on creating a software framework capable of enabling th
   
 </p>
 
+## Reply project scope
+The project develops an innovative software solution on Cloud-Edge, enabling citizens, customers, or business entities to exchange data via wireline or wireless connections through an open and modular architecture that implements the cloud-edge continuum. This architecture allows any service or activity to occur in real-time and leverages advanced AI/ML capabilities, represented by self-organizing AI Agents, with a high degree of automation, providing solutions that are secure and private.
+As an autonomous application’s use case, this project also develops and integrates a software platform for vehicles and robotics that coordinates and collaborates with autonomous driving cars, trucks, logistic vehicles, humanoids, autonomous edge/IoT devices and manufacturing robots.
+
 ©  [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) - A [Reply](https://www.reply.com) Group Company
