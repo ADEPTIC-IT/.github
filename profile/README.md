@@ -11,6 +11,8 @@ Founded in **January 2025**, our primary objective is to represent technological
 
 Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv/
 
+[Link to the Reply project on the 8RA website:](https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv/){:target="_blank"}
+
 ## 🇪🇺 IPCEI CIS Mission
 Our contribution focuses on creating a software framework capable of enabling the federation of cloud and edge services. We work to:
 - Ensure interoperability between different European providers.
