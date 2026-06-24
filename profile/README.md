@@ -7,7 +7,7 @@ This repository contains all information thematically related to  [**Adeptic Rep
 ## 🚀 Who We Are
 **Adeptic Reply** is a company within the **Reply S.p.A.** group focused on the research, development, and implementation of advanced solutions in the field of next-generation Cloud and Edge infrastructures.
 
-Our primary objective is to represent technological excellence within the **IPCEI-CIS** (Important Project of Common European Interest - Cloud Infrastructure and Services) project, a strategic European initiative aimed at building a sovereign and resilient data infrastructure.
+Our primary objective is to represent technological excellence within the **IPCEI-CIS** (Important Project of Common European Interest - Cloud Infrastructure and Services) project, a strategic European initiative aimed at building a sovereign and resilient cloud infrastructure.
 
 
 Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv
