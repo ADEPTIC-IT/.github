@@ -37,7 +37,7 @@ Our contribution focuses on creating a software framework capable of enabling th
 - Optimize workload distribution from the data center to the edge device.
 
 <p align="center">
-  <img src="ue-mimit-8ra-logos.png" width="100%" />
+  <img src="eu-mimit-8ra-logos.png" width="100%" />
 </p>
 
 ## Reply project scope
