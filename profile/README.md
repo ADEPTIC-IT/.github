@@ -20,8 +20,8 @@ Our contribution focuses on creating a software framework capable of enabling th
 - Develop open-source technologies that support digital sovereignty.
 - Optimize workload distribution from the data center to the edge device.
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; width: 100%;">
-<img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 30%; margin-right: 3%;" />
-<img src="immagine (2).png" alt="Immagine 2" style="width: 30%; margin-right: 3%;" />
+<img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 30%; padding: 3%;" />
+<img src="immagine (2).png" alt="Immagine 2" style="width: 30%; padding: 3%;" />
 <img src="immagine (3).png" alt="Immagine 3" style="width: 30%;" />
 </div>
 
