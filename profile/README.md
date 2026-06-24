@@ -33,9 +33,9 @@ Our contribution focuses on creating a software framework capable of enabling th
   <img src="immagine (3).png" alt="Immagine 3" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
 </div>
 
-<p align="right">
-  <img src="EN Funded by the European Union_PANTONE.jpg" width="30%" style="margin-right: 10px;" />
-  <img src="immagine (2).png" width="30%" style="margin-right: 10px;" />
+<p align="left">
+  <img src="EN Funded by the European Union_PANTONE.jpg" width="30%" style="margin-right: 70px;" />
+  <img src="immagine (2).png" width="30%" style="margin-right: 70px;" />
   <img src="immagine (3).png" width="30%" />
 </p>
 
