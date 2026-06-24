@@ -25,6 +25,12 @@ Our contribution focuses on creating a software framework capable of enabling th
   <img src="immagine (3).png" alt="Immagine 3" style="width: 300px; height: 150px; object-fit: contain;" />
 </div>
 
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; gap: 4%; width: 100%;">
+  <img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
+  <img src="immagine (2).png" alt="Immagine 2" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
+  <img src="immagine (3).png" alt="Immagine 3" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
+</div>
+
 
 
 <div style="display:flex; width:100%; gap:10px; padding:10px; box-sizing:border-box;">
