@@ -20,4 +20,8 @@ Our contribution focuses on creating a software framework capable of enabling th
 - Develop open-source technologies that support digital sovereignty.
 - Optimize workload distribution from the data center to the edge device.
 
+<img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 32%; margin-right: 1%;" />
+<img src="immagine (2).png" alt="Immagine 2" style="width: 32%; margin-right: 1%;" />
+<img src="immagine (3).png" alt="Immagine 3" style="width: 32%;" />
+
 © 2026 [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) - A [Reply](https://www.reply.com) Group Company
