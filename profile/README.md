@@ -14,7 +14,7 @@ Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud
 
 
 <details>
-  <summary><strong>Reply for IPCEI-CIS</strong> (Italian only)</summary>
+  <summary><strong>Reply for IPCEI-CIS</strong></summary>
 
   ### Finanziamento
 
