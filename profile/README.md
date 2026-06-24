@@ -10,7 +10,7 @@ This repository contains all information thematically related to **Adeptic Reply
 Founded in **January 2025**, our primary objective is to represent technological excellence within the **IPCEI CIS** (Important Project of Common European Interest - Cloud Infrastructure and Services) project, a strategic European initiative aimed at building a sovereign and resilient data infrastructure.
 
 
-<a href="https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv" target="_blank" rel="noopener">Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv/</a>
+Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv
 
 
 
