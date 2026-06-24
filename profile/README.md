@@ -34,9 +34,9 @@ Our contribution focuses on creating a software framework capable of enabling th
 </div>
 
 <p align="center">
-  <img src="EN Funded by the European Union_PANTONE.jpg" width="30%" style="margin-right: 70px;" />
-  <img src="immagine (2).png" width="30%" style="margin-right: 70px;" />
-  <img src="immagine (3).png" width="30%" />
+  <img src="EN Funded by the European Union_PANTONE.jpg" width="25%" style="margin-right: 70px;" />
+  <img src="immagine (2).png" width="25%" style="margin-right: 70px;" />
+  <img src="immagine (3).png" width="25%" />
 </p>
 
 
