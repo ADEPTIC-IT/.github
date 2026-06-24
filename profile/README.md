@@ -38,7 +38,6 @@ Our contribution focuses on creating a software framework capable of enabling th
 
 <p align="center">
   <img src="ue-mimit-8ra-logos.png" width="100%" />
-  
 </p>
 
 ## Reply project scope
