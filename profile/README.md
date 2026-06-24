@@ -20,29 +20,10 @@ Our contribution focuses on creating a software framework capable of enabling th
 - Develop open-source technologies that support digital sovereignty.
 - Optimize workload distribution from the data center to the edge device.
 
-
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; gap: 4%; width: 100%;">
-  <img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-  <img src="immagine (2).png" alt="Immagine 2" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-  <img src="immagine (3).png" alt="Immagine 3" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-</div>
-
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; align-items: center; gap: 4%; width: 100%;">
-  <img src="EN Funded by the European Union_PANTONE.jpg" alt="Immagine 1" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-  <img src="immagine (2).png" alt="Immagine 2" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-  <img src="immagine (3).png" alt="Immagine 3" style="width: 30%; aspect-ratio: 3 / 2; object-fit: contain;" />
-</div>
-
 <p align="center">
-  <img src="EN Funded by the European Union_PANTONE.jpg" width="25%" style="margin-right: 70px;" />
-  <img src="immagine (2).png" width="25%" style="margin-right: 70px;" />
-  <img src="immagine (3).png" width="25%" />
+  <img src="EN Funded by the European Union_PANTONE.jpg" width="30%" />&emsp;&emsp;
+  <img src="immagine (2).png" width="30%" />&emsp;&emsp;
+  <img src="immagine (3).png" width="30%" />&emsp;&emsp;
 </p>
-
-
-
- 
-   
- 
 
 © 2026 [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) - A [Reply](https://www.reply.com) Group Company
