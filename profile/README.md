@@ -13,6 +13,21 @@ Founded in **January 2025**, our primary objective is to represent technological
 Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud-computing-edge-for-data-network-service-over-fttx-oran-and-asp4agv
 
 
+<details>
+  <summary><strong>Reply for IPCEI</strong> (Italian only)</summary>
+
+  ### Finanziamento
+
+  Questo progetto è stato finanziato con Fondo IPCEI – interv. Infrastrutture e Servizi Cloud CIS
+  D.M. di attivazione 27/06/2022; D.D. di apertura 23/02/2024
+  Beneficiario REPLY S.p.A (C.F. 97579210010)
+  Prog. N. SA.102519 - D.D. n. 1676 del 14/10/2024
+  CUP B19J24000950005; Progetto n. IPCEI-CL_0000004.
+
+  ### Disseminazione
+
+  Inoltre, nell’ambito delle attività di diffusione e promozione del progetto elenchiamo qui alcune delle partecipazioni attive di Reply in iniziative nazionali e europee: https://www.reply.com/adeptic-reply/en/newsroom
+</details>
 
 ## 🇪🇺 IPCEI CIS Mission
 Our contribution focuses on creating a software framework capable of enabling the federation of cloud and edge services. We work to:
