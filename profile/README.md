@@ -25,4 +25,26 @@ Our contribution focuses on creating a software framework capable of enabling th
   <img src="immagine (3).png" alt="Immagine 3" style="width: 300px; height: 150px; object-fit: contain;" />
 </div>
 
+
+
+<div style="display:flex; width:100%; gap:10px; padding:10px; box-sizing:border-box;">
+   
+    <a href="EN Funded by the European Union_PANTONE.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="EN Funded by the European Union_PANTONE.jpg"
+           style="width:calc(33.333% - 6.66px); height:auto; object-fit:cover; border-radius:8px;">
+    </a>
+ 
+    <a href="immagine (2).png" target="_blank" rel="noopener noreferrer">
+      <img src="immagine (2).png"
+           style="width:calc(33.333% - 6.66px); height:auto; object-fit:cover; border-radius:8px;">
+    </a>
+ 
+    <a href="immagine (3).png" target="_blank" rel="noopener noreferrer">
+      <img src="immagine (3).png"
+           style="width:calc(33.333% - 6.66px); height:auto; object-fit:cover; border-radius:8px;">
+    </a>
+ 
+  </div>
+ 
+
 © 2026 [Adeptic Reply](https://www.reply.com/adeptic-reply/en/about-us) - A [Reply](https://www.reply.com) Group Company
