@@ -18,15 +18,16 @@ Link to the Reply project on the 8RA website: https://www.8ra.com/projects/cloud
 
   ### Finanziamento
 
-  Questo progetto è stato finanziato con Fondo IPCEI – interv. Infrastrutture e Servizi Cloud CIS
-  D.M. di attivazione 27/06/2022; D.D. di apertura 23/02/2024
-  Beneficiario REPLY S.p.A (C.F. 97579210010)
-  Prog. N. SA.102519 - D.D. n. 1676 del 14/10/2024
-  CUP B19J24000950005; Progetto n. IPCEI-CL_0000004.
+  Questo progetto è stato finanziato con Fondo IPCEI – interv. Infrastrutture e Servizi Cloud CIS<br />
+  D.M. di attivazione 27/06/2022; D.D. di apertura 23/02/2024<br />
+  Beneficiario REPLY S.p.A (C.F. 97579210010)<br />
+  Prog. N. SA.102519 - D.D. n. 1676 del 14/10/2024<br />
+  CUP B19J24000950005; Progetto n. IPCEI-CL_0000004.<br />
+  https://www.mimit.gov.it/it/incentivi/ipcei-infrastrutture-e-servizi-cloud-cis
 
   ### Disseminazione
 
-  Inoltre, nell’ambito delle attività di diffusione e promozione del progetto elenchiamo qui alcune delle partecipazioni attive di Reply in iniziative nazionali e europee: https://www.reply.com/adeptic-reply/en/newsroom
+  Nell’ambito delle attività di diffusione e promozione del progetto elenchiamo qui alcune delle partecipazioni attive di Reply in iniziative nazionali e europee: https://www.reply.com/adeptic-reply/en/newsroom
 </details>
 
 ## 🇪🇺 IPCEI CIS Mission
